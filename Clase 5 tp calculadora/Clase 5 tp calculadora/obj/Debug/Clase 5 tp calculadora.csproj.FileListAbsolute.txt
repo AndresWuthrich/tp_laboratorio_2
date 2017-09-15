@@ -1,0 +1,9 @@
+D:\VisualStudio\Clase 5 tp calculadora\Clase 5 tp calculadora\bin\Debug\Clase 5 tp calculadora.exe.config
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\bin\Debug\Clase 5 tp calculadora.exe.config
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\obj\Debug\Clase 5 tp calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\obj\Debug\Clase_5_tp_calculadora.Calculadora.resources
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\obj\Debug\Clase 5 tp calculadora.csproj.GenerateResource.Cache
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\bin\Debug\Clase 5 tp calculadora.exe
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\bin\Debug\Clase 5 tp calculadora.pdb
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\obj\Debug\Clase 5 tp calculadora.exe
+C:\Users\Ire Dreiling\Downloads\Clase 5 tp calculadora\Clase 5 tp calculadora\Clase 5 tp calculadora\obj\Debug\Clase 5 tp calculadora.pdb
