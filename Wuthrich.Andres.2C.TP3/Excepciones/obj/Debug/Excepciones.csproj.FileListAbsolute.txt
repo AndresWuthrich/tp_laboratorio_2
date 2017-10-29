@@ -1,0 +1,5 @@
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

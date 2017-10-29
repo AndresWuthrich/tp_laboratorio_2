@@ -1,0 +1,5 @@
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Ire Dreiling\Documents\Visual Studio 2012\Projects\Wuthrich.Andres.2C.TP3\Archivos\obj\Debug\Archivos.pdb
